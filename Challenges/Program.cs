@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            SortingChallenges.ActivityNotifications();
+            DictionariesAndHashmaps.CheckMagazine(null, null);
         }
     }
 }
